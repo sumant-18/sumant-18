@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
--  💻 I am a *B.Tech student* at *National Institute Of Technology Allahabad*
+-  💻 I am a *B.Tech student* at *National Institute Of Technology Allahabad(MNNIT)*
 
 - 🌱 I’m currently learning *Java*
 
